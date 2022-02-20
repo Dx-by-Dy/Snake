@@ -15,4 +15,5 @@ Windows XP и выше.
 Процессор Intel Pentium и выше.
 
 ## Скриншоты
-![Снимок экрана (111)](https://user-images.githubusercontent.com/95908964/154847211-1e4eaf83-413a-41f3-b0c9-c877b19ba317.png)
+![Снимок экрана (111)](https://user-images.githubusercontent.com/95908964/154847928-1c629197-6584-497b-b155-70b0ad2ff10f.png)
+![Снимок экрана (112)](https://user-images.githubusercontent.com/95908964/154847937-74e2a3fa-63f4-41c5-8f2a-3a55cceb487e.png)
