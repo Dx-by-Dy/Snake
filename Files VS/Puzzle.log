@@ -1,0 +1,8 @@
+﻿  Snake.cpp
+C:\Users\Alex\source\repos\Puzzle\Snake.cpp(44,19): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Alex\source\repos\Puzzle\Snake.cpp(68,31): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Alex\source\repos\Puzzle\Snake.cpp(94,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Alex\source\repos\Puzzle\Snake.cpp(112,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Alex\source\repos\Puzzle\Snake.cpp(114,69): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Alex\source\repos\Puzzle\Snake.cpp(118,43): warning C4018: <: несоответствие типов со знаком и без знака
+  Puzzle.vcxproj -> C:\Users\Alex\source\repos\Puzzle\Debug\Puzzle.exe
