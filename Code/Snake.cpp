@@ -205,7 +205,7 @@ int WINAPI WinMain(HINSTANCE hInstance, HINSTANCE hPrevInstance, LPSTR lpCmdLine
     win.lpszClassName = L"My Class";
     RegisterClass(&win);
 
-    hwnd = CreateWindow(win.lpszClassName, L"Puzzle", WS_OVERLAPPEDWINDOW & ~WS_THICKFRAME & ~WS_MAXIMIZEBOX, 500, 300, 600, 600, NULL, NULL, hInstance, NULL);
+    hwnd = CreateWindow(win.lpszClassName, L"Snake", WS_OVERLAPPEDWINDOW & ~WS_THICKFRAME & ~WS_MAXIMIZEBOX, 500, 300, 600, 600, NULL, NULL, hInstance, NULL);
     SetClassLong(hwnd, GCL_HBRBACKGROUND, (LONG)CreateSolidBrush(RGB(0, 0, 0)));
 
     dc = GetDC(hwnd);
